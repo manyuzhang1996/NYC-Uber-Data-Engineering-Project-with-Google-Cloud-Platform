@@ -3,6 +3,10 @@
 
 An end-to-end modern data engineering project, including deployment of ETL pipeline on Google Cloud Platform, using BigQuery for data analysis and leveraging Looker to generate an insight dashboard.
 
+https://github.com/manyuzhang1996/NYC-Uber-Data-Engineering-Project-with-Google-Cloud-Platform/assets/111943220/4c7ad7b2-15b6-4a0c-aba8-8754cfef91d5
+
+
+## Architecture
 <img width="1258" alt="Project Architecture" src="https://github.com/manyuzhang1996/NYC-Uber-Data-Engineering-Project-with-Google-Cloud-Platform/assets/111943220/8bbdf71b-9953-4613-ae71-60003c81edc8">
 
 
